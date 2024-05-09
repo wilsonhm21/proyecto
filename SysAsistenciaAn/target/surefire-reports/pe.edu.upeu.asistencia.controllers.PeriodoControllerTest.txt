@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: pe.edu.upeu.asistencia.controllers.PeriodoControllerTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.31 s - in pe.edu.upeu.asistencia.controllers.PeriodoControllerTest
