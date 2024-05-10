@@ -10,7 +10,7 @@ pipeline {
         stage('Clone') {
             steps {
                 timeout(time: 2, unit: 'MINUTES'){
-                    
+                 git branch: 'main', credentialsId:'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' , url:'https://github.com/wilsonhm21/proyecto.git'  
                 }
             }
         }
